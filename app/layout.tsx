@@ -30,14 +30,14 @@ html {
           name="fc:miniapp"
           content='{
             "version": "1",
-            "imageUrl": "https://brainflip-game.vercel.app/og-image.png",
+            "imageUrl": "https://birdbrains-five.vercel.app/og-image.png",
             "button": {
               "title": "Test your memory",
               "action": {
                 "type": "launch_miniapp",
                 "name": "Brain Birds",
-                "url": "https://brainflip-game.vercel.app/",
-                "splashImageUrl": "https://brainflip-game.vercel.app/icon.png",
+                "url": "https://birdbrains-five.vercel.app/",
+                "splashImageUrl": "https://birdbrains-five.vercel.app/icon.png",
                 "splashBackgroundColor": "#000000"
               }
             }
@@ -47,14 +47,14 @@ html {
           name="fc:frame"
           content='{
             "version": "1",
-            "imageUrl": "https://brainflip-game.vercel.app/og-image.png",
+            "imageUrl": "https://birdbrains-five.vercel.app/og-image.png",
             "button": {
               "title": "Test your memory",
               "action": {
                 "type": "launch_frame",
                 "name": "Brain Birds",
-                "url": "https://brainflip-game.vercel.app/",
-                "splashImageUrl": "https://brainflip.vercel.app/icon.png",
+                "url": "https://birdbrains-five.vercel.app/",
+                "splashImageUrl": "https://birdbrains-five.vercel.app/icon.png",
                 "splashBackgroundColor": "#000000"
               }
             }
